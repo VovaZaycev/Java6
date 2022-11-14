@@ -1,0 +1,1 @@
+# MY PROLECT Java6
